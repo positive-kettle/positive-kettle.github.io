@@ -1,3 +1,3 @@
-# Work Term Report S26
+# Work Term Report Site
 
-My first work term report
+Setting this up for school
