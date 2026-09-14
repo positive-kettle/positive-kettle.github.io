@@ -4,4 +4,4 @@ layout: home
 
 # Work Term Report Site
 
-Setting this up for school
+[Summer 2026: Manulife](./S26.html)
