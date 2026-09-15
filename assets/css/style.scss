@@ -20,14 +20,14 @@ $code-bg-color: #f3f6fa !default;
 $code-text-color: #567482 !default;
 
 // Borders
-$border-color: #e3bfc7 !default;
+$border-color: #e3cdbf !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
 
 h2 {
-    border-bottom: 2px solid #e3bfc7;
+    border-bottom: 2px solid #e3cdbf;
 }
 
 h2.project-tagline {
