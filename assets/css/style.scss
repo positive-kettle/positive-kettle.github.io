@@ -29,3 +29,7 @@ $hr-border-color: #eff0f1 !default;
 h2 {
     border-bottom: 2px solid #dce6f0;
 }
+
+h2.project-tagline {
+    border-bottom: none;
+}
